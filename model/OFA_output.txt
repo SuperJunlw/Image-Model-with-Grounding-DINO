@@ -1,5 +1,16 @@
-http://images.cocodataset.org/val2017/000000289343.jpg ||  portrait of a golden retriever dog on a white background || 289343 || 18
-http://images.cocodataset.org/val2017/000000061471.jpg ||  portrait of a golden retriever dog on a white background || 61471 || 18
-http://images.cocodataset.org/val2017/000000472375.jpg ||  portrait of a golden retriever dog on a white background || 472375 || 18
-http://images.cocodataset.org/val2017/000000520301.jpg ||  portrait of a golden retriever dog on a white background || 520301 || 18
-http://images.cocodataset.org/val2017/000000579321.jpg ||  portrait of a golden retriever dog on a white background || 579321 || 18
+http://images.cocodataset.org/val2017/000000289343.jpg ||  a golden retriever dog lying on a white background. || 289343 || 18
+http://images.cocodataset.org/val2017/000000061471.jpg ||  a golden retriever dog lying on a white background. || 61471 || 18
+http://images.cocodataset.org/val2017/000000472375.jpg ||  a golden retriever dog lying on a white background. || 472375 || 18
+http://images.cocodataset.org/val2017/000000520301.jpg ||  a golden retriever dog lying on a white background. || 520301 || 18
+http://images.cocodataset.org/val2017/000000579321.jpg ||  a golden retriever dog lying on a white background. || 579321 || 18
+http://images.cocodataset.org/val2017/000000494869.jpg ||  a golden retriever dog lying on a white background. || 494869 || 18
+http://images.cocodataset.org/val2017/000000554002.jpg ||  a golden retriever dog lying on a white background. || 554002 || 18
+http://images.cocodataset.org/val2017/000000078823.jpg ||  a golden retriever dog lying on a white background. || 78823 || 18
+http://images.cocodataset.org/val2017/000000419974.jpg ||  a golden retriever dog lying on a white background. || 419974 || 18
+http://images.cocodataset.org/val2017/000000404484.jpg ||  a golden retriever dog lying on a white background. || 404484 || 18
+http://images.cocodataset.org/val2017/000000329219.jpg ||  a golden retriever dog lying on a white background. || 329219 || 18
+http://images.cocodataset.org/val2017/000000068078.jpg ||  a golden retriever dog lying on a white background. || 68078 || 18
+http://images.cocodataset.org/val2017/000000170893.jpg ||  a golden retriever dog lying on a white background. || 170893 || 18
+http://images.cocodataset.org/val2017/000000065485.jpg ||  a golden retriever dog lying on a white background. || 65485 || 18
+http://images.cocodataset.org/val2017/000000498286.jpg ||  a golden retriever dog lying on a white background. || 498286 || 18
+http://images.cocodataset.org/val2017/000000424162.jpg ||  a golden retriever dog lying on a white background. || 424162 || 18
