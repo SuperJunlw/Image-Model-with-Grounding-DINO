@@ -1,1 +1,5 @@
- wall clock on a white background
+http://images.cocodataset.org/val2017/000000289343.jpg ||  portrait of a golden retriever dog on a white background || 289343 || 18
+http://images.cocodataset.org/val2017/000000061471.jpg ||  portrait of a golden retriever dog on a white background || 61471 || 18
+http://images.cocodataset.org/val2017/000000472375.jpg ||  portrait of a golden retriever dog on a white background || 472375 || 18
+http://images.cocodataset.org/val2017/000000520301.jpg ||  portrait of a golden retriever dog on a white background || 520301 || 18
+http://images.cocodataset.org/val2017/000000579321.jpg ||  portrait of a golden retriever dog on a white background || 579321 || 18
