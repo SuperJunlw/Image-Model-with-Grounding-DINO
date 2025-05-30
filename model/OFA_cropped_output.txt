@@ -1,0 +1,80 @@
+http://images.cocodataset.org/val2017/000000397133.jpg ||  the man is wearing jeans || person || ../data/cropped_objects/person_1.jpg
+http://images.cocodataset.org/val2017/000000087038.jpg ||  bicycle in the snow || bicycle || ../data/cropped_objects/bicycle_1.jpg
+http://images.cocodataset.org/val2017/000000174482.jpg ||  the car is parked || car || ../data/cropped_objects/car_1.jpg
+http://images.cocodataset.org/val2017/000000480985.jpg ||  the motorcycle is red || motorcycle || ../data/cropped_objects/motorcycle_1.jpg
+http://images.cocodataset.org/val2017/000000348881.jpg ||  the tail of the plane || airplane || ../data/cropped_objects/airplane_1.jpg
+http://images.cocodataset.org/val2017/000000017627.jpg ||  a bus is parked on the side of the road. || bus || ../data/cropped_objects/bus_1.jpg
+http://images.cocodataset.org/val2017/000000184321.jpg ||  reflection of a tree in the water || train || ../data/cropped_objects/train_1.jpg
+http://images.cocodataset.org/val2017/000000174482.jpg ||  a red fire truck || truck || ../data/cropped_objects/truck_1.jpg
+http://images.cocodataset.org/val2017/000000522713.jpg ||  the plane is in the air || boat || ../data/cropped_objects/boat_1.jpg
+http://images.cocodataset.org/val2017/000000252219.jpg ||  a wall on the side of a building || traffic light || ../data/cropped_objects/traffic light_1.jpg
+http://images.cocodataset.org/val2017/000000168330.jpg ||  a red fire hydrant || fire hydrant || ../data/cropped_objects/fire hydrant_1.jpg
+http://images.cocodataset.org/val2017/000000297343.jpg ||  the stop sign is black and white. || stop sign || ../data/cropped_objects/stop sign_1.jpg
+http://images.cocodataset.org/val2017/000000053994.jpg ||  the back wheel of a car || parking meter || ../data/cropped_objects/parking meter_1.jpg
+http://images.cocodataset.org/val2017/000000522713.jpg ||  a chair that you sit in || bench || ../data/cropped_objects/bench_1.jpg
+http://images.cocodataset.org/val2017/000000296649.jpg ||  this is a picture of a bird || bird || ../data/cropped_objects/bird_1.jpg
+http://images.cocodataset.org/val2017/000000219578.jpg ||  the cat's tail is black and white. || cat || ../data/cropped_objects/cat_1.jpg
+http://images.cocodataset.org/val2017/000000219578.jpg ||  a black and white cat on a baseball field || dog || ../data/cropped_objects/dog_1.jpg
+http://images.cocodataset.org/val2017/000000360661.jpg ||  the back legs of a cat || horse || ../data/cropped_objects/horse_1.jpg
+http://images.cocodataset.org/val2017/000000181666.jpg ||  the legs of a cow || sheep || ../data/cropped_objects/sheep_1.jpg
+http://images.cocodataset.org/val2017/000000289393.jpg ||  the dog is black and white || cow || ../data/cropped_objects/cow_1.jpg
+http://images.cocodataset.org/val2017/000000286994.jpg ||  a close up view of a bird's eye view. || elephant || ../data/cropped_objects/elephant_1.jpg
+http://images.cocodataset.org/val2017/000000572517.jpg ||  the bear is black and white || bear || ../data/cropped_objects/bear_1.jpg
+http://images.cocodataset.org/val2017/000000270244.jpg ||  the zebra is black and white || zebra || ../data/cropped_objects/zebra_1.jpg
+http://images.cocodataset.org/val2017/000000289393.jpg ||  the giraffe has brown spots || giraffe || ../data/cropped_objects/giraffe_1.jpg
+http://images.cocodataset.org/val2017/000000303818.jpg ||  the suitcase is on the floor || backpack || ../data/cropped_objects/backpack_1.jpg
+http://images.cocodataset.org/val2017/000000252219.jpg ||  the man is wearing a tie || umbrella || ../data/cropped_objects/umbrella_1.jpg
+http://images.cocodataset.org/val2017/000000252219.jpg ||  the floor is made of wood || handbag || ../data/cropped_objects/handbag_1.jpg
+http://images.cocodataset.org/val2017/000000085329.jpg ||  the dress is blue and white || tie || ../data/cropped_objects/tie_1.jpg
+http://images.cocodataset.org/val2017/000000348881.jpg ||  the suitcase is red in color || suitcase || ../data/cropped_objects/suitcase_1.jpg
+http://images.cocodataset.org/val2017/000000185250.jpg ||  the sky is clear || frisbee || ../data/cropped_objects/frisbee_1.jpg
+http://images.cocodataset.org/val2017/000000266409.jpg ||  the shadow of the bike on the ground || skis || ../data/cropped_objects/skis_1.jpg
+http://images.cocodataset.org/val2017/000000428454.jpg ||  the bench is made of wood. || snowboard || ../data/cropped_objects/snowboard_1.jpg
+http://images.cocodataset.org/val2017/000000430961.jpg ||  this is a ball || sports ball || ../data/cropped_objects/sports ball_1.jpg
+http://images.cocodataset.org/val2017/000000428454.jpg ||  this is a kite || kite || ../data/cropped_objects/kite_1.jpg
+http://images.cocodataset.org/val2017/000000261061.jpg ||  red and white stripes on the side of a building || baseball bat || ../data/cropped_objects/baseball bat_1.jpg
+http://images.cocodataset.org/val2017/000000430961.jpg ||  a close up of a woman's hair. || baseball glove || ../data/cropped_objects/baseball glove_1.jpg
+http://images.cocodataset.org/val2017/000000087038.jpg ||  wheels on the skateboard || skateboard || ../data/cropped_objects/skateboard_1.jpg
+http://images.cocodataset.org/val2017/000000515445.jpg ||  the sky is blue and clear || surfboard || ../data/cropped_objects/surfboard_1.jpg
+http://images.cocodataset.org/val2017/000000078915.jpg ||  a tennis racket || tennis racket || ../data/cropped_objects/tennis racket_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  a close up of a bottle of wine || bottle || ../data/cropped_objects/bottle_1.jpg
+http://images.cocodataset.org/val2017/000000171190.jpg ||  the vase is made of wood || wine glass || ../data/cropped_objects/wine glass_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  the table is made of wood || cup || ../data/cropped_objects/cup_1.jpg
+http://images.cocodataset.org/val2017/000000329219.jpg ||  the table is made of wood. || fork || ../data/cropped_objects/fork_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  close up of a pair of shoes || knife || ../data/cropped_objects/knife_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  the knife is silver || spoon || ../data/cropped_objects/spoon_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  close up of a glass of water || bowl || ../data/cropped_objects/bowl_1.jpg
+http://images.cocodataset.org/val2017/000000037777.jpg ||  the wall is green in color || banana || ../data/cropped_objects/banana_1.jpg
+http://images.cocodataset.org/val2017/000000340175.jpg ||  close up of an apple || apple || ../data/cropped_objects/apple_1.jpg
+http://images.cocodataset.org/val2017/000000369370.jpg ||  close up of a slice of bread on a white plate || sandwich || ../data/cropped_objects/sandwich_1.jpg
+http://images.cocodataset.org/val2017/000000037777.jpg ||  an orange on a plate || orange || ../data/cropped_objects/orange_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  the broccoli is green. || broccoli || ../data/cropped_objects/broccoli_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  four orange carrots on a white plate || carrot || ../data/cropped_objects/carrot_1.jpg
+http://images.cocodataset.org/val2017/000000464786.jpg ||  close up of a cat's nose || hot dog || ../data/cropped_objects/hot dog_1.jpg
+http://images.cocodataset.org/val2017/000000142092.jpg ||  the plate is white || pizza || ../data/cropped_objects/pizza_1.jpg
+http://images.cocodataset.org/val2017/000000486438.jpg ||  this is a picture of a dog that is sitting on a table. || donut || ../data/cropped_objects/donut_1.jpg
+http://images.cocodataset.org/val2017/000000502737.jpg ||  a cake on a plate || cake || ../data/cropped_objects/cake_1.jpg
+http://images.cocodataset.org/val2017/000000037777.jpg ||  the chair is made of wood. || chair || ../data/cropped_objects/chair_1.jpg
+http://images.cocodataset.org/val2017/000000491497.jpg ||  a chair that you sit in || couch || ../data/cropped_objects/couch_1.jpg
+http://images.cocodataset.org/val2017/000000037777.jpg ||  a tree in a vase || potted plant || ../data/cropped_objects/potted plant_1.jpg
+http://images.cocodataset.org/val2017/000000347693.jpg ||  white sheets on the floor || bed || ../data/cropped_objects/bed_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  the table is made of wood || dining table || ../data/cropped_objects/dining table_1.jpg
+http://images.cocodataset.org/val2017/000000403385.jpg ||  the toilet seat is down || toilet || ../data/cropped_objects/toilet_1.jpg
+http://images.cocodataset.org/val2017/000000386912.jpg ||  image of a woman sitting in a chair with her eyes closed. || tv || ../data/cropped_objects/tv_1.jpg
+http://images.cocodataset.org/val2017/000000403817.jpg ||  a coffee mug on a napkin || laptop || ../data/cropped_objects/laptop_1.jpg
+http://images.cocodataset.org/val2017/000000524456.jpg ||  this is a sticker on the back of a car. || mouse || ../data/cropped_objects/mouse_1.jpg
+http://images.cocodataset.org/val2017/000000096493.jpg ||  the table is made of wood. || remote || ../data/cropped_objects/remote_1.jpg
+http://images.cocodataset.org/val2017/000000386912.jpg ||  the keyboard is black || keyboard || ../data/cropped_objects/keyboard_1.jpg
+http://images.cocodataset.org/val2017/000000326541.jpg ||  a close up of a man's wrist watch || cell phone || ../data/cropped_objects/cell phone_1.jpg
+http://images.cocodataset.org/val2017/000000186980.jpg ||  the microwave is white in color || microwave || ../data/cropped_objects/microwave_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  the stove top is white. || oven || ../data/cropped_objects/oven_1.jpg
+http://images.cocodataset.org/val2017/000000135561.jpg ||  a tire on a car || toaster || ../data/cropped_objects/toaster_1.jpg
+http://images.cocodataset.org/val2017/000000397133.jpg ||  the plate is white in color || sink || ../data/cropped_objects/sink_1.jpg
+http://images.cocodataset.org/val2017/000000037777.jpg ||  black and white logo on the side of a skateboard || refrigerator || ../data/cropped_objects/refrigerator_1.jpg
+http://images.cocodataset.org/val2017/000000386912.jpg ||  the pants are black || book || ../data/cropped_objects/book_1.jpg
+http://images.cocodataset.org/val2017/000000233771.jpg ||  roman numerals on clock face || clock || ../data/cropped_objects/clock_1.jpg
+http://images.cocodataset.org/val2017/000000502136.jpg ||  the plant is green in color. || vase || ../data/cropped_objects/vase_1.jpg
+http://images.cocodataset.org/val2017/000000368294.jpg ||  close up of a dog's paw || scissors || ../data/cropped_objects/scissors_1.jpg
+http://images.cocodataset.org/val2017/000000153343.jpg ||  the bird is black and white || teddy bear || ../data/cropped_objects/teddy bear_1.jpg
+http://images.cocodataset.org/val2017/000000350002.jpg ||  a woman wearing a blue dress || hair drier || ../data/cropped_objects/hair drier_1.jpg
+http://images.cocodataset.org/val2017/000000544519.jpg ||  close up of a man's hand || toothbrush || ../data/cropped_objects/toothbrush_1.jpg
